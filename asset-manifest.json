@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://deborah137.github.io/csb-gkjns/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://deborah137.github.io/csb-gkjns/static/js/main.23b31cce.chunk.js",
+    "main.js.map": "https://deborah137.github.io/csb-gkjns/static/js/main.23b31cce.chunk.js.map",
+    "runtime-main.js": "https://deborah137.github.io/csb-gkjns/static/js/runtime-main.92188064.js",
+    "runtime-main.js.map": "https://deborah137.github.io/csb-gkjns/static/js/runtime-main.92188064.js.map",
+    "static/js/2.5bef26a8.chunk.js": "https://deborah137.github.io/csb-gkjns/static/js/2.5bef26a8.chunk.js",
+    "static/js/2.5bef26a8.chunk.js.map": "https://deborah137.github.io/csb-gkjns/static/js/2.5bef26a8.chunk.js.map",
+    "index.html": "https://deborah137.github.io/csb-gkjns/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://deborah137.github.io/csb-gkjns/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5bef26a8.chunk.js.LICENSE.txt": "https://deborah137.github.io/csb-gkjns/static/js/2.5bef26a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92188064.js",
+    "static/js/2.5bef26a8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.23b31cce.chunk.js"
+  ]
+}
